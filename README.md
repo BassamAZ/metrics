@@ -1,3 +1,4 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/1f5f51be478040d6a5354e2987be8b62)](https://app.codacy.com/app/BassamAZ/metrics?utm_source=github.com&utm_medium=referral&utm_content=BassamAZ/metrics&utm_campaign=Badge_Grade_Dashboard)
 [![codecov](https://codecov.io/gh/BassamAZ/metrics/branch/master/graph/badge.svg)](https://codecov.io/gh/BassamAZ/metrics)
 
 # Maven – JaCoCo code coverage example
