@@ -1,4 +1,7 @@
+[![Build Status](https://travis-ci.org/BassamAZ/metrics.svg?branch=master)](https://travis-ci.org/BassamAZ/metrics)
+
 [![codecov](https://codecov.io/gh/BassamAZ/metrics/branch/master/graph/badge.svg)](https://codecov.io/gh/BassamAZ/metrics)
+
 
 # Maven – JaCoCo code coverage example
 Maven, JUnit 5 + JaCoCo example.
