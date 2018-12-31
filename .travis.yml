@@ -1,0 +1,16 @@
+sudo: false
+language: java
+jdk: oraclejdk8
+
+cache:
+  directories:
+  - "$HOME/.cache"
+
+deploy:
+  provider: script
+  script: "mvn clean install"
+  skip_cleanup: true
+  on:
+    tags: true
+after_success:
+  - bash <(curl -s https://codecov.io/bash)
